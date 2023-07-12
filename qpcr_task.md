@@ -89,9 +89,11 @@ function(
   * Whichever you are comfortable with for solving this problem.
 * Are frameworks allowed?
   * Sure, use what you are comfortable with, except for libraries that solve the exact same problem.
+* How can I deliver the solution?
+  * Whatever you are most comfortable with, either in email with attachments or Git repository or anything in between. 
 * What can I expect as input?
   * The solution should try to be as generalized as possible for any possible input.
-* What kind of data combinations can I expect?
+* What kind of data combinations of sample and reagents can I expect?
   * Dimensions of input data can vary greatly; some labs use 1 sample, 100s of reagents, some other labs use 100 samples, 1 reagents, and majority of labs use something in-between.
 * Is there a visual example?
-  * There is: ![example](example.png)
+  * Sure! ![example](example.png)
